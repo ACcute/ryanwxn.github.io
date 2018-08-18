@@ -20,4 +20,6 @@ __In markdown:```![](https://Ryanwxn.github.io/ryanwxn.github.io/1.jpg)```__
 
 *For example*
 
+~~因为本人英语不会了~~将来开发个人网站时会将该图床拷贝至我的网站，__不会丢失任何数据__，敬请期待！
+
 # Thanks for your use!
